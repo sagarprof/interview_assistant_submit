@@ -1,4 +1,4 @@
-# interview_assistant_submit# Gen AI Interview Assistant
+Gen AI Interview Assistant
 
 A sophisticated gen ai recruitment and analysis application that uses Google AI agents to evaluate candidates against job descriptions. The system performs comprehensive analysis, skill mapping, question generation, and suitability predictions.
 
